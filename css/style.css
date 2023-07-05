@@ -5,6 +5,7 @@ body{
     align-items: center;
     background-color: #d3d3d3;
     text-shadow: hsl(220, 15%, 55%) ;
+    font-family: 'Outfit' , sans-serif;
 }
 
 .qr{
